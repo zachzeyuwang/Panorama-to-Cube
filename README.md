@@ -3,7 +3,9 @@
 Part of code for the paper
 
 **Zeyu Wang**, Xiaohan Jin, Fei Xue, Xin He, Renju Li, Hongbin Zha
+
 [Panorama to Cube: A Content-Aware Representation Method](https://www.researchgate.net/publication/281589647_Panorama_to_Cube_A_Content-Aware_Representation_Method)
+
 ACM SIGGRAPH Asia Technical Briefs, 2015
 
 ## Documentation
