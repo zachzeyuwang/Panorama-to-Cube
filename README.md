@@ -1,4 +1,4 @@
-# Panorana-to-Cube
+# Panorama-to-Cube
 
 Part of code for the paper
 
